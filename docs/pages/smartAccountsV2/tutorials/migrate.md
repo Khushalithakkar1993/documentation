@@ -13,7 +13,7 @@ Biconomy provides a complete solution for leveraging Smart Accounts, Paymasters,
 
 3. **Update RPC calls:** Use all available Biconomy bundler JSON-RPC methods as outlined in the specification.
 
-| [Stackup Bundler](https://docs.stackup.sh/reference/erc-4337-bundler-api-endpoints)   | [Biconomy bundler](https://docs.biconomy.io/bundler/api)  | 
+| [Stackup Bundler](https://docs.stackup.sh/reference/erc-4337-bundler-api-endpoints)   | [Biconomy bundler]  | 
 |------------|------------|
 | eth_sendUserOperation | [eth_sendUserOperation](/smartAccountsV2/bundler/api/send-UserOperation) |
 | eth_getUserOperationReceipt | [eth_getUserOperationReceipt](/smartAccountsV2/bundler/api/get-useroperation-receipt) | 
@@ -23,7 +23,7 @@ Biconomy provides a complete solution for leveraging Smart Accounts, Paymasters,
 
 All paymaster URLs allow you to use both Sponsorship and Token Paymasters. To switch between paymasters you will simply change the Mode of a specific request.
 
-| [Stackup paymaster](https://docs.stackup.sh/reference/paymaster-api-endpoints)   | [Biconomy paymaster](https://docs.biconomy.io/paymaster)  | 
+| [Stackup paymaster](https://docs.stackup.sh/reference/paymaster-api-endpoints)   | [Biconomy paymaster]  | 
 |------------|------------|
 | pm_sponsorUserOperation | [pm_sponsorUserOperation](/smartAccountsV2/paymaster/api/sponsor-useroperation) |
 
