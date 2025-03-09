@@ -138,7 +138,7 @@ Alternatively, if you already have a DApp registered, you can find the "apiKey" 
 > **_POST Request_**
 
 ```
-https://paymaster-dashboard-backend.prod.biconomy.io/api/v2/public/sdk/smart-contract
+'https://paymaster-dashboard-backend.prod.biconomy.io/api/v2/public/sdk/smart-contract'
 ``` 
 
 Parameters
@@ -195,7 +195,7 @@ Smart Contract Already Exists
 > **_GET Request_**
 
 ```
-https://paymaster-dashboard-backend.prod.biconomy.io/api/v2/public/sdk/smart-contract
+'https://paymaster-dashboard-backend.prod.biconomy.io/api/v2/public/sdk/smart-contract'
 ```
 
 Parameters
@@ -243,7 +243,7 @@ Header
 > **_PATCH Request_**
 
 ```
-https://paymaster-dashboard-backend.prod.biconomy.io/api/v2/public/sdk/smart-contract
+'https://paymaster-dashboard-backend.prod.biconomy.io/api/v2/public/sdk/smart-contract'
 ``` 
 
 Parameters
@@ -441,7 +441,7 @@ Usually, this occurs when incorrect apiKey or authToken is used
 > **_DELETE Request_**
 
 ```
-https://paymaster-dashboard-backend.prod.biconomy.io/api/v2/public/sdk/smart-contract
+'https://paymaster-dashboard-backend.prod.biconomy.io/api/v2/public/sdk/smart-contract'
 ``` 
 
 Parameters
