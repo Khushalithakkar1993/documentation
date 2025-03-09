@@ -19,7 +19,7 @@ We can see that tx 1 and 2 are dependent, these two cannot be executed in parall
 ### Prerequisites
 
 - Node.js installed on your machine
-- A Bundler url if you don't want to use the testnet one (for Amoy you can use https://bundler.biconomy.io/api/v2/80002/nJPK7B3ru.dd7f7861-190d-41bd-af80-6877f74b8f44)
+- A Bundler url if you don't want to use the testnet one (for Amoy you can use `https://bundler.biconomy.io/api/v2/80002/nJPK7B3ru.dd7f7861-190d-41bd-af80-6877f74b8f44`
 - An rpc url (for Amoy can use https://rpc-amoy.polygon.technology/)
 - An address to send the transaction to (replace `0xaddress`)
 
